@@ -67,19 +67,21 @@ h2 {
 }
 
 button {
-    background-color: rgb(168, 197, 211);
+    background-color: rgb(89, 180, 226);
     font-family: Arial, Helvetica, sans-serif;
-    width: 100%;
+    width: 90%;
+    height: auto;
     text-align: start;
     padding: 5px;
     border: none;
     border-radius: 35px;
     cursor: pointer;
+  
 
 }
 
 button:hover {
-    background-color: rgb(151, 185, 223);
+    background-color: rgb(28, 45, 65);
     color: white;
 }
 
